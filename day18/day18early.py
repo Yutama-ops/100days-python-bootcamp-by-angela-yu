@@ -24,15 +24,9 @@ tim.shape("turtle")
 # colours = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen", "wheat", "SlateGray",
 # "SeaGreen"]
 tim.color("red")
-tim.speed("fastest")
-for x in range(0,361):
-    tim.circle(50)
-    heading = tim.heading()
-    tim.setheading(heading + 10)
+for x in range(1000):
+    move_right(random.choice(tim_motion))
     tim.color(random_color())
-# for x in range(1000):
-#     move_right(random.choice(tim_motion))
-#     tim.color(random_color())
 
 
 
