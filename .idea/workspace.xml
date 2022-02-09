@@ -4,13 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day18/day18early.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/hirst_painting/hirst.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/hirst_painting/main.py" afterDir="false" />
+    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/day20-21/day20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20-21/snake_game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20-21/snake_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20-21/snake_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20-21/snake_game/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/day22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/pong_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/pong_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/turtle_crossing_game/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/turtle_crossing_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/turtle_crossing_game/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/turtle_crossing_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Mail Merge Project Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/day24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/my_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/day18.py" beforeDir="false" afterPath="$PROJECT_DIR$/day18/day18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/day19.py" beforeDir="false" afterPath="$PROJECT_DIR$/day19/day19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day19/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +62,36 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23e6LY52aFKB1cyPiXTMsQv4V0J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day24" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day24" />
+      <recent name="$PROJECT_DIR$/day23/turtle_crossing_game" />
+      <recent name="$PROJECT_DIR$/day22/pong_game" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day18/hirst_painting" />
-      <recent name="$PROJECT_DIR$/day16" />
+      <recent name="$PROJECT_DIR$/day24" />
+      <recent name="$PROJECT_DIR$/day_24" />
+      <recent name="$PROJECT_DIR$/day23" />
+      <recent name="$PROJECT_DIR$/day22/pong_game" />
+      <recent name="$PROJECT_DIR$/day20/snake_game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="day18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,32 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23/turtle_crossing_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/day18.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day18early" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/day18early.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23/turtle_crossing_game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,11 +120,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24/Mail Merge Project Start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/Mail Merge Project Start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,53 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18/hirst_painting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/pong_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/hirst_painting/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="question_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17/question_model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/pong_game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.day18" />
-        <item itemvalue="Python.day18early" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.question_model" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +215,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642082152011</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1643368295781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643368295781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +237,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
