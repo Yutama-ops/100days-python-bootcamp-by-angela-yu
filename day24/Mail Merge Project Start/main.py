@@ -10,11 +10,11 @@
 with open("./Input/Names/invited_names.txt") as name:
     s = name.readlines()
 
-# print(s[0])
+for name in s:
+    new_name = name.strip()
+    with open("./Input/Letters/starting_letter.txt") as letter:
+        surat = letter.read()
+        x = surat.replace("[name]", new_name)
+    with open(f"./Output/ReadyToSend/letter_for_{new_name}.txt", mode="w") as new_letter:
+        new_letter.write(x)
 
-with open("./Input/Letters/starting_letter.txt") as letter:
-    surat = letter.read()
-    x = surat.replace("[name]", "a")
-    print(x)
-
-with open("./Output/ReadyToSend/example.py") as example:
