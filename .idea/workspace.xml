@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/day25/us-states-game/main_mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/us-states-game/states_to_learn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/challenge_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/challenge_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/challenge_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/challenge_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day25/us-states-game/main_mac.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/us-states-game/main_mac.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +59,26 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day26" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day26" />
       <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$/day23/turtle_crossing_game" />
       <recent name="$PROJECT_DIR$/day22/pong_game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day26" />
       <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$/day_24" />
       <recent name="$PROJECT_DIR$/day23" />
       <recent name="$PROJECT_DIR$/day22/pong_game" />
-      <recent name="$PROJECT_DIR$/day20/snake_game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_mac">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.challenge_2">
+    <configuration name="challenge_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day26/challenge_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="challenge_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/Snake+Project+Code+from+Day+21/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day26/challenge_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.challenge_2" />
+        <item itemvalue="Python.challenge_1" />
         <item itemvalue="Python.main_mac" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644497956650</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="a">
+      <created>1644658648807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644658648807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
