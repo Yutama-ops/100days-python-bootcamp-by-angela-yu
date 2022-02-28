@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/day27/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/playground.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/tkinter_widgets.py" afterDir="false" />
+    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="day27">
+      <change afterPath="$PROJECT_DIR$/day27/main_pg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day26/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day26/NATO-alphabet-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day27/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day27/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645788506975</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="day27">
+      <created>1645877423465</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645877423465</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +292,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="day27" />
+    <option name="LAST_COMMIT_MESSAGE" value="day27" />
   </component>
 </project>
