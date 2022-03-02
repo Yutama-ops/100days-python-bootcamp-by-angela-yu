@@ -1,4 +1,6 @@
 from tkinter import *
+import math
+
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
 RED = "#e7305b"
@@ -8,20 +10,53 @@ FONT_NAME = "Courier"
 WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
+reps = 0
+timer = None
 
-# ---------------------------- TIMER RESET ------------------------------- # 
 
+# ---------------------------- TIMER RESET ------------------------------- #
+def reset_timer():
+    global reps
+    reps = 0
+    window.after_cancel(timer)
+    canvas.itemconfig(timer_text, text=f"0{0}:0{0}")
+    timer_label.config(text="Timer", fg=GREEN)
+    checklist_label.config(text="")
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 def start_timer():
-    count_down(5 * 60)
-# ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
+    global reps
+    reps += 1
+    work_sec = WORK_MIN * 60
+    short_break_sec = SHORT_BREAK_MIN * 60
+    long_break_sec = LONG_BREAK_MIN * 60
+    if reps % 2 == 0:
+        count_down(short_break_sec)
+        checklist_label.config(text=checklist_label["text"] + "✓")
+        timer_label.config(text="Break", fg=RED)
+    elif reps % 8 == 0:
+        count_down(long_break_sec)
+        timer_label.config(text="Long Break", fg=PINK)
+    else:
+        count_down(work_sec)
+        timer_label.config(text="Timer", fg=GREEN)
+
+
+
+# ---------------------------- COUNTDOWN MECHANISM ------------------------------- #
 def count_down(count):
-    second = count%60
-    minute = count/60
+    second = math.floor(count % 60)
+    minute = math.floor(count / 60)
+    if second < 10:
+        second = f"0{second}"
+    canvas.itemconfig(timer_text, text=f"{minute}:{second}")
     if count > 0:
-        window.after(1000, count_down, count - 1)
-    canvas.itemconfig(timer_text, text=f"{int(minute)}:{second}")
-# ---------------------------- UI SETUP ------------------------------- #
+        global timer
+        timer = window.after(1000, count_down, count - 1)
+    else:
+        start_timer()
+
+
+# ---------------------------- UI SETUP -------------e------------------ #
 window = Tk()
 window.title("Pomodoro")
 window.config(padx=100, pady=50, bg=YELLOW)
@@ -35,14 +70,13 @@ canvas.grid(column=1, row=1)
 timer_label = Label(text="Timer", font=(FONT_NAME, 40, "bold"), fg=GREEN, bg=YELLOW, highlightthickness=0)
 timer_label.grid(column=1, row=0)
 
-checklist_label = Label(text="✓", font=(FONT_NAME, 40, "bold"), fg=GREEN,bg=YELLOW, highlightthickness=0)
+checklist_label = Label(text="", font=(FONT_NAME, 40, "bold"), fg=GREEN, bg=YELLOW, highlightthickness=0)
 checklist_label.grid(column=1, row=3)
 
 start_button = Button(text="Start", bg=YELLOW, highlightthickness=0, command=start_timer)
 start_button.grid(column=0, row=2)
 
-reset_button = Button(text="Reset", bg=YELLOW, highlightthickness=0)
+reset_button = Button(text="Reset", bg=YELLOW, highlightthickness=0, command=reset_timer)
 reset_button.grid(column=2, row=2)
-
 
 window.mainloop()
