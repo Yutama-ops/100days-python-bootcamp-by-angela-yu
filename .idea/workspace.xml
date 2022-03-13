@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="day28" />
+    <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="day28">
+      <change afterPath="$PROJECT_DIR$/day30/NATO/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/NATO/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/NATO/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/NATO/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/day30/playground.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,14 +72,14 @@
       <recent name="$PROJECT_DIR$/day22/pong_game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day30" />
+      <recent name="$PROJECT_DIR$/day30/NATO" />
       <recent name="$PROJECT_DIR$/day29" />
       <recent name="$PROJECT_DIR$/day28" />
       <recent name="$PROJECT_DIR$/day26" />
-      <recent name="$PROJECT_DIR$/day24" />
-      <recent name="$PROJECT_DIR$/day_24" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.playground (1)">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,32 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day27/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day28/pomodoro-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day28/pomodoro-start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/Password+Manager+(End+of+Day+29)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,6 +143,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/NATO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/NATO/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="playground (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.playground (1)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646973417932</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="day28">
+      <created>1646973852580</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1646973852580</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
