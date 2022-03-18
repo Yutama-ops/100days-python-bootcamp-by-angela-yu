@@ -1,14 +1,14 @@
 {
-    "pronhub": {
+    "ebay": {
         "email": "angela@gmail.com",
-        "password": "&8%3VFLQwxhjdiebULY8k+3X*Ru"
+        "password": "6Mz!i4Z$ajfQ2s"
     },
-    "darkw": {
-        "email": "angelaaaaaa@gmail.com",
-        "password": "YQaaGSO60#7Rk#"
-    },
-    "lightw": {
+    "facebook": {
         "email": "angela@gmail.com",
-        "password": "8jo5P)3+XcbJm7"
+        "password": "oR4U91f!DQFL5V&+L"
+    },
+    "twitter": {
+        "email": "angela@gmail.com",
+        "password": "#NRK5#7N5Xb7nn"
     }
 }

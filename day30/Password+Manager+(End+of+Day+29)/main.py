@@ -39,20 +39,42 @@ def save():
     if len(website) == 0 or len(password) == 0:
         messagebox.showinfo(title="Oops", message="Please make sure you haven't left any fields empty.")
     else:
-        with open("data.json", "r") as data_file:
-            # data_file.write(f"{website} | {email} | {password}\n")
-            # read data
-            data_js = json.load(data_file)
+        try:
+            with open("data.json", "r") as data_file:
+                # read data
+                data_js = json.load(data_file)
+        except FileNotFoundError:
+            with open("data.json", "w") as data_file:
+                # saving updated
+                json.dump(new_data, data_file, indent=4)
+        else:
             # update
             data_js.update(new_data)
-        with open("data.json", "w") as data_file:
-            # saving updated
-            json.dump(data_js, data_file, indent=4)
+            with open("data.json", "w") as data_file:
+                # saving updated
+                json.dump(data_js, data_file, indent=4)
+        finally:
             website_entry.delete(0, END)
             password_entry.delete(0, END)
 
+# --------------------------- FIND PASSWORD ------------------------------- #
+def find_password():
+    website = website_entry.get()
+    if website:
+        try:
+            with open("data.json", "r") as data_file:
+                data_js = json.load(data_file)
+                data_email = data_js[website]["email"]
+                data_password = data_js[website]["password"]
+        except KeyError:
+            messagebox.showinfo(title="Oops", message="No Data File Found.")
+        else:
+            messagebox.showinfo(title=f"data_js", message=f"Email :{data_email}\n"
+                                                          f"Password :{data_password}")
+    else:
+        messagebox.showinfo(title="Oops", message="Please input website name.")
 
-# ---------------------------- UI SETUP ------------------------------- #
+        # ---------------------------- UI SETUP ------------------------------- #
 
 window = Tk()
 window.title("Password Manager")
@@ -72,8 +94,8 @@ password_label = Label(text="Password:")
 password_label.grid(row=3, column=0)
 
 #Entries
-website_entry = Entry(width=35)
-website_entry.grid(row=1, column=1, columnspan=2)
+website_entry = Entry(width=21)
+website_entry.grid(row=1, column=1)
 website_entry.focus()
 email_entry = Entry(width=35)
 email_entry.grid(row=2, column=1, columnspan=2)
@@ -86,5 +108,7 @@ generate_password_button = Button(text="Generate Password", command=generate_pas
 generate_password_button.grid(row=3, column=2)
 add_button = Button(text="Add", width=36, command=save)
 add_button.grid(row=4, column=1, columnspan=2)
+search_button = Button(text="Search", command=find_password, width=13)
+search_button.grid(row=1, column=2)
 
 window.mainloop()

@@ -20,4 +20,3 @@ def generate_phonetic():
         print(output_list)
 
 generate_phonetic()
-
