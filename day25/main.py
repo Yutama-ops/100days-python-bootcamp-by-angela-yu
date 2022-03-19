@@ -16,7 +16,7 @@
 
 import pandas
 
-# data = pandas.read_csv("weather_data.csv")
+data = pandas.read_csv("weather_data.csv")
 # # print(data)
 #
 # datadict = data.to_dict()
@@ -35,8 +35,8 @@ import pandas
 # max_temp_data = data[data.temp == data.temp.max()]
 # print(max_temp_data)
 
-# monday = data[data.day == "Monday"]
-# print(monday.temp.add(300))
+monday = data[data.day == "Monday"]
+print(monday.temp.add(300))
 
 # hello sayangnya aku yutama budiman hffhfhugnbfsagfgubfwrbgbduhgbegaohtfg
 
