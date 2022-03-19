@@ -13,10 +13,8 @@ dotw = date.weekday()
 # open the quotes.txt file and obtain list of quotes
 with open("quotes.txt", "r") as data:
     quotes = data.readlines()
-<<<<<<< HEAD
 print(quotes)
-=======
->>>>>>> origin/main
+
 
 # use random module to pick a random quote from your list of quotes
 qotd = random.choice(quotes)
