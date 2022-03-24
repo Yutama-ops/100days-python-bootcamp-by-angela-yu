@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 201,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine insists on territorial integrity as talks loom - Reuters",
+            "description": "With peace talks between Russia and Ukraine set to take place in Turkey this week, Ukrainian President Volodymyr Zelenskiy insisted on the territorial integrity of his country after earlier suggesting he was ready for a compromise.",
+            "url": "https://www.reuters.com/world/europe/ukraine-insists-territorial-integrity-talks-loom-2022-03-28/",
+            "urlToImage": "https://www.reuters.com/resizer/TQoCrVuEACBZgIwB32k2SotVqSM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHYHR3APURJRDGTZQEIWNKRZLQ.jpg",
+            "publishedAt": "2022-03-28T01:16:00Z",
+            "content": "LVIV, Ukraine, March 28 (Reuters) - With peace talks between Russia and Ukraine set to take place in Turkey this week, Ukrainian President Volodymyr Zelenskiy insisted on the territorial integrity of\u2026 [+6266 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine insists on territorial integrity as talks loom - Reuters.com",
+            "description": "With peace talks between Russia and Ukraine set to take place in Turkey this week, Ukrainian President Volodymyr Zelenskiy insisted on the territorial integrity of his country after earlier suggesting he was ready for a compromise.",
+            "url": "https://www.reuters.com/business/aerospace-defense/ukraine-insists-territorial-integrity-talks-loom-2022-03-28/",
+            "urlToImage": "https://www.reuters.com/resizer/TQoCrVuEACBZgIwB32k2SotVqSM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHYHR3APURJRDGTZQEIWNKRZLQ.jpg",
+            "publishedAt": "2022-03-28T03:06:00Z",
+            "content": "LVIV, Ukraine, March 28 (Reuters) - With peace talks between Russia and Ukraine set to take place in Turkey this week, Ukrainian President Volodymyr Zelenskiy insisted on the territorial integrity of\u2026 [+6498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rob Stein",
+            "title": "The FDA is expected to authorize 2nd boosters for people 50 and up",
+            "description": "People aged 50 and over could soon be eligible for a second Pfizer-BioNTech or Moderna COVID vaccine booster. The administration wants to offer the shots as immunity from the first booster is waning.",
+            "url": "https://www.npr.org/sections/health-shots/2022/03/27/1089072803/the-fda-is-expected-to-authorize-2nd-boosters-for-people-50-and-up",
+            "urlToImage": "https://media.npr.org/assets/img/2022/03/27/gettyimages-1237388067_wide-d8301d65a686cdb467d95608e57475141d98ed0a.jpg?s=1400",
+            "publishedAt": "2022-03-28T01:06:01Z",
+            "content": "The Biden administration wants people 50 and over to have the option of getting an additional booster shot.\r\nFREDERIC J. BROWN/AFP via Getty Images\r\nAnyone 50 years and older could soon be eligible f\u2026 [+2864 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ktangalakislippert@insider.com (Katherine Tangalakis-Lippert)",
+            "title": "Karine Jean-Pierre, White House principal deputy press secretary, has tested positive for COVID-19",
+            "description": "Karine Jean-Pierre, White House principal deputy press secretary, announced Sunday she has tested positive for COVID-19.",
+            "url": "https://www.businessinsider.com/the-white-house-principal-deputy-press-secretary-has-covid-19-2022-3",
+            "urlToImage": "https://i.insider.com/624110cea2e45b0019509fb4?width=1200&format=jpeg",
+            "publishedAt": "2022-03-28T01:39:17Z",
+            "content": "Karine Jean-Pierre, the White House principal deputy press secretary, announced Sunday she tested positive for COVID-19 following her return trip from Europe with President Joe Biden.\r\n\"This afternoo\u2026 [+515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brendan Morrow, Staff Writer",
+            "title": "Will Smith stuns Oscars viewers by smacking Chris Rock",
+            "description": "Will Smith stuns Oscars viewers by smacking Chris Rock",
+            "url": "https://news.yahoo.com/smith-stuns-oscars-viewers-smacking-023431164.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2022-03-28T02:34:31Z",
+            "content": "What on Earth just happened at the Oscars?\r\nIn the most jaw-dropping Academy Awards moment in recent memory, Will Smith shocked viewers on Sunday by getting out of his seat to smack Chris Rock live o\u2026 [+1575 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Biden spokesperson tests positive for COVID-19 after trip",
+            "description": "White House spokeswoman Karine Jean-Pierre says she has tested positive for COVID-19 after having returned from Europe with President Joe Biden",
+            "url": "https://abcnews.go.com/Politics/wireStory/biden-spokesperson-tests-positive-covid-19-trip-83709789",
+            "urlToImage": "https://s.abcnews.com/images/Politics/220323_wnn_psaki_covid_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-03-28T01:19:09Z",
+            "content": "WASHINGTON -- White House spokeswoman Karine Jean-Pierre said she tested positive for COVID-19 on Sunday after returning from Europe with President Joe Biden, in the latest infiltration of the corona\u2026 [+940 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YURAS KARMANAU Associated Press",
+            "title": "Ukraine pleads for help, says Russia wants to split nation",
+            "description": "Ukrainian President Volodymyr Zelenskyy accused the West of cowardice while another top official said Russia was trying to split the nation in two, like North and South Korea",
+            "url": "https://abcnews.go.com/Politics/wireStory/ukraine-pleads-russia-split-nation-83706627",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a032158b091f4fd098a7d0ad922228c3_16x9_992.jpg",
+            "publishedAt": "2022-03-28T01:26:24Z",
+            "content": "LVIV, Ukraine -- Ukrainian President Volodymyr Zelenskyy accused the West of cowardice Sunday while another top official said Russia was trying to split the nation in two, like North and South Korea.\u2026 [+7025 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "DER SPIEGEL",
+            "title": "Russlands Krieg in der Ukraine \u2013 das geschah in der Nacht zum 28. M\u00e4rz",
+            "description": "Nahe der umk\u00e4mpften Stadt Charkiw meldet die Ukraine Gebietsgewinne. Sorge um die Atomruine in Tschernobyl \u2013 Kiew nimmt Uno in die Pflicht. Und: Fluchtrouten f\u00fcr Mariupol. Der \u00dcberblick.",
+            "url": "https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-das-geschah-in-der-nacht-zum-28-maerz-a-f89de2d4-d824-4880-bd4d-8048a5cff552",
+            "urlToImage": "https://cdn.prod.www.spiegel.de/images/f43d0030-fb19-4c2c-b1d5-6d43ef4d5266_w1280_r1.77_fpx29.94_fpy44.99.jpg",
+            "publishedAt": "2022-03-28T03:20:31Z",
+            "content": "Das geschah in den vergangenen Stunden\r\nUkrainische Truppen sind nach eigener Darstellung zu erfolgreichen Gegenangriffen in der Umgebung der Stadt Charkiw im Osten des Landes angetreten. Dabei seien\u2026 [+7745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Liam Tung \uff08CNET News\uff09 \u7ffb\u8a33\u6821\u6b63\uff1a \u77e2\u5009\u7f8e\u767b\u91cc \u9ad8\u68ee\u90c1\u54c9 \u6e6f\u672c\u7267\u5b50 \u5409\u6b66\u7a14\u592b \uff08\u30ac\u30ea\u30ec\u30aa\uff09",
+            "title": "EU\u3001\u5927\u624bIT\u306e\u898f\u5236\u5f37\u5316\u3067\u5408\u610f--\u300c\u30c7\u30b8\u30bf\u30eb\u5e02\u5834\u6cd5\u300d\u5236\u5b9a\u3078",
+            "description": "\u6b27\u5dde\u9023\u5408\uff08EU\uff09\u306f\u3001\u5927\u624b\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u4f01\u696d\u3092\u898f\u5236\u3059\u308b\u65b0\u305f\u306a\u300c\u30c7\u30b8\u30bf\u30eb\u5e02\u5834\u6cd5\u300d\uff08DMA\uff09\u306b\u3064\u3044\u3066\u5408\u610f\u306b\u9054\u3057\u305f\u3068\u767a\u8868\u3057\u305f\u3002",
+            "url": "https://japan.cnet.com/article/35185462/",
+            "urlToImage": "https://japan.cnet.com/storage/2022/03/28/18be5e5dcf94a4a7a23ae4687018db0c/t/640/480/d/a-concerned-woman-looking-at-her-smartphone-getty_1280x960.jpg",
+            "publishedAt": "2022-03-28T02:31:00Z",
+            "content": "EU324DMA\r\n1SMSSMSDMAGoogleAndroidAppleiOSiMessageFacebookWhatsApp\r\nEUWhatsAppFacebookMessengeriMessage\r\nGoogleSMSWhatsAppiMessageRCSAppleiOSAndroid\r\nDMA\r\n75010751\r\nEU45001\r\n6\r\nAndreas Schwab\r\nDMAITEU\u2026 [+83 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Kyle Cheney and Nicholas Wu",
+            "title": "Contempt report: Biden turned down privilege claim by Dan Scavino",
+            "description": "The disclosure comes as the Jan. 6 committee prepares to begin contempt proceedings against the longtime Trump social media manager and another aide, Peter Navarro.",
+            "url": "https://www.politico.com/news/2022/03/27/contempt-report-biden-privilege-claim-dan-scavino-00020749",
+            "urlToImage": "https://static.politico.com/bd/c3/f53f6aa444aeb1f74b95a487a618/220327-dan-scavino-ap-773.jpg",
+            "publishedAt": "2022-03-28T00:06:56Z",
+            "content": "President Biden has determined that an assertion of executive privilege is not in the national interest, and therefore is not justified, the White House counsels office informed Scavino on March 15, \u2026 [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Troy Kotsur Makes Oscar History as First Deaf Male Winner, Dedicates Emotional Speech to Father",
+            "description": "\u201cCODA\u201d star Troy Kotsur made history at the Oscars as the first deaf man to win an Academy Award for acting. His victory comes 35 years after his \u201cCODA\u201d co-star Marlee Matlin became the first deaf actor ever to win an Oscar, for her leading role in \u201cChildren \u2026",
+            "url": "https://variety.com/2022/awards/news/troy-kotsur-oscar-best-supporting-actor-coda-1235209964/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/03/troy-kotsur-Oscar-Win.jpg?w=1000",
+            "publishedAt": "2022-03-28T01:42:40Z",
+            "content": "\u201cCODA\u201d star Troy Kotsur made history at the Oscars as the first deaf man to win an Academy Award for acting.\r\nHis victory comes 35 years after his \u201cCODA\u201d co-star Marlee Matlin became the first deaf a\u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "msnNOW"
+            },
+            "author": null,
+            "title": "Last EU train out of Russia arrives in Helsinki...",
+            "description": "Last EU train out of Russia arrives in Helsinki...\r\n\n \n \n \n (Top headline, 9th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:PAPER: Russians snatching Ukrainians, forcing them into slave labor...\r\nHow Biden sparked global uproar with ad-libbed words about Putin..\u2026",
+            "url": "https://www.msn.com/en-ca/news/world/last-eu-train-out-of-russia-arrives-in-helsinki/ar-AAVyuXD",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVyoCn.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+            "publishedAt": "2022-03-28T00:19:36Z",
+            "content": "Just after 7pm on Sunday, the Allegro express train from St Petersburg pulled into the Finnish capital, marking the closure of the last rail link between Russia and the EU.\r\n\u00a9 Seppo Samuli\r\n Despite \u2026 [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sabrina Siddiqui and Tarini Parti",
+            "title": "Stirs Anxiety Among Western Allies...",
+            "description": "Stirs Anxiety Among Western Allies...\r\n\n \n \n \n (Top headline, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:PAPER: Russians snatching Ukrainians, forcing them into slave labor...\r\nHow Biden sparked global uproar with ad-libbed words about Putin...\r\n'For God's\u2026",
+            "url": "https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478",
+            "urlToImage": "https://images.wsj.net/im-512918/social",
+            "publishedAt": "2022-03-28T01:07:36Z",
+            "content": "WASHINGTONPresident Bidens remark that Russian President Vladimir Putin cannot remain in power came under fire for muddying U.S. policy and threatening to undermine diplomatic efforts to end the war \u2026 [+314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "tedstew1",
+            "title": "White House Principal Deputy Press Secretary Karine Jean-Pierre Tests Positive For Covid",
+            "description": "White House Principal Deputy Press Secretary Karine Jean-Pierre said that she has tested positive for Covid. Jean-Pierre had been traveling with President Joe Biden on his trip to Europe, and she said that after her return, a PCR test on Sunday afternoon came\u2026",
+            "url": "https://deadline.com/2022/03/karine-jean-pierre-tests-positive-covid-white-house-1234988325/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/03/AP22045802312301.jpg?w=1024",
+            "publishedAt": "2022-03-28T01:01:16Z",
+            "content": "White House Principal Deputy Press Secretary Karine Jean-Pierre said that she has tested positive for Covid.\r\nJean-Pierre had been traveling with President Joe Biden on his trip to Europe, and she sa\u2026 [+937 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Troy Kotsur miglior attore non protagonista per 'CODA': primo uomo sordomuto premiato nella storia degli Oscar",
+            "description": null,
+            "url": "https://www.repubblica.it/dossier/spettacoli/oscar-2022/2022/03/28/news/oscar_2022_troy_kotsur_coda-343111046/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2022/03/28/044854048-bd9b6f15-fe3f-4dc1-8077-ef49c193d746.jpg",
+            "publishedAt": "2022-03-28T03:05:22Z",
+            "content": "\"Voglio solo dire che dedico questo premio alla comunit\u00e0 dei sordi, alla comunit\u00e0 C.O.D.A. e alla comunit\u00e0\u00a0dei disabili. Questo \u00e8\u00a0il nostro momento\". A trentacinque anni da premio consegnato all'attr\u2026 [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lois Beckett and Samantha Lock",
+            "title": "Russia-Ukraine war: what we know on day 33 of the Russian invasion",
+            "description": "Macron distances himself from Biden\u2019s comments that Putin \u2018cannot remain in power\u2019; Russia and Ukraine to hold fresh talks on Monday<ul><li>Russia-Ukraine war: latest updates</li></ul>US president Joe Biden has denied he is calling for regime change in Russia\u2026",
+            "url": "https://amp.theguardian.com/world/2022/mar/28/russia-ukraine-war-what-we-know-on-day-33-of-the-russian-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/3373442307c8cbbcbed4e284a672f00b9ec76d39/0_225_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91f4c75b5f7b6a7330b3966fb960065e",
+            "publishedAt": "2022-03-28T00:22:07Z",
+            "content": "<li>US president Joe Bidenhas denied he is calling for regime change in Russia, after he said during a visit to Poland that Putin cannot remain in power. When asked by a reporter if he wanted to see \u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TPM"
+            },
+            "author": "Josh Marshall",
+            "title": "\u201cYou Punch Them In The Nose\u201d",
+            "description": "From TPM Reader JB \u2026 I just listened to the March 24 th podcast and have to tell you that I could not disagree more with you concerning the right response to\u2026",
+            "url": "https://talkingpointsmemo.com/edblog/you-punch-them-in-the-nose",
+            "urlToImage": "http://s3.amazonaws.com/tpm-media/images/tpm-logo_square.png",
+            "publishedAt": "2022-03-28T01:47:30Z",
+            "content": "I just listened to the March 24th\u00a0podcast and have to tell you that I could not disagree more with you concerning the right response to republicans from democrats. I do not disagree that there are si\u2026 [+3742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tilak Doshi, Contributor, \n Tilak Doshi, Contributor\n https://www.forbes.com/sites/tilakdoshi/",
+            "title": "Covid Pandemic And Climate Change Facts: Fact Checking The Fact Checkers",
+            "description": "Readers and viewers of news media beware: the \u201cfact checks\u201d used by the mainstream news outlets and social media to police what you read, listen and watch regarding covid-19 and climate change are just opinions.",
+            "url": "https://www.forbes.com/sites/tilakdoshi/2022/03/27/covid-pandemic-and-climate-change-facts-fact-checking-the-fact-checkers/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6240f7cd0e956278eeaf91c3/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-03-28T00:45:16Z",
+            "content": "RUSSIA-MANIPULATED PICTURE-YEZHOV From left to right: Kliment Vorochilov, Vyacheslav Molotov, Josef ... [+] Stalin and Nikolai Iejov aka Nikolai Yezhov, pose at the shore of the the Moscow -Volga Can\u2026 [+10081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Russell Flannery, Forbes Staff, \n Russell Flannery, Forbes Staff\n https://www.forbes.com/sites/russellflannery/",
+            "title": "Bright Spot For Asian Americans Amid Hate-Crime Wave: Immigrants\u2019 Daughter OKed For Vermont Supreme Court",
+            "description": "New York, where 14% of the population is Asian, has suffered brutal attacks this year",
+            "url": "https://www.forbes.com/sites/russellflannery/2022/03/27/bright-spot-for-asian-americans-amid-hate-crime-wave-immigrants-daughter-oked-for-vermont-supreme-court/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62410a05d8826eb72c296dcc/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-03-28T01:25:28Z",
+            "content": "People hold signs during a rally in response to the killing of Christina Yuna Lee in the Chinatown ... [+] section of New York on Feb. 14, 2022. Lee was stabbed to death inside her lower Manhattan ap\u2026 [+3550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "L'Express"
+            },
+            "author": "AFP",
+            "title": "Ukraine: nouvelles n\u00e9gociations, situation \"catastrophique\" \u00e0 Marioupol",
+            "description": "Kiev - Des n\u00e9gociations entre Kiev et Moscou s'ouvrent en d\u00e9but de semaine \u00e0 Istanbul, l'Ukraine se disant pr\u00eate \u00e0 discuter \"en profondeur\" de sa neutralit\u00e9, au moment o\u00f9 la situation humanitaire \u00e0 Marioupol, dans l'est du pays, est d\u00e9crite comme \"catastrophi\u2026",
+            "url": "https://www.lexpress.fr/actualites/1/monde/ukraine-nouvelles-negociations-situation-catastrophique-a-marioupol_2170657.html",
+            "urlToImage": "https://static.lexpress.fr/medias_12396/w_605,h_350,c_fill,g_north/v1648435526/l-interieur-d-une-maison-detruite-par-les-forces-russes-a-bachtanka-pres-de-mykolaiv-sud-de-l-ukraine_6346788.jpg",
+            "publishedAt": "2022-03-28T02:40:58Z",
+            "content": "Dans la ville assi\u00e9g\u00e9e et bombard\u00e9e depuis des semaines, \"la population se bat pour survivre. La situation humanitaire est catastrophique\", a affirm\u00e9 dans la nuit de dimanche \u00e0 lundi le minist\u00e8re ukr\u2026 [+7872 chars]"
+        }
+    ]
+}
