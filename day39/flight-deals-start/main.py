@@ -11,13 +11,11 @@ sheet_data = data_manager.get_destination_data()
 #  to the FlightSearch class to get the corresponding IATA code
 #  for that city using the Flight Search API.
 #  You should use the code you get back to update the sheet_data dictionary.
-if sheet_data[0]["iataCode"] == "":
+for row in sheet_data:
     from flight_search import FlightSearch
-
     flight_search = FlightSearch()
-    for row in sheet_data:
+    if row["iataCode"] == "":
         row["iataCode"] = flight_search.get_destination_code(row["city"])
     print(sheet_data)
-
     data_manager.destination_data = sheet_data
     data_manager.update_destination_codes()

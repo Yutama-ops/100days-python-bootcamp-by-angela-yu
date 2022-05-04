@@ -14,3 +14,5 @@ class FlightSearch:
         results = response.json()["locations"]
         code = results[0]["code"]
         return code
+
+    def get_flights_price(self):
