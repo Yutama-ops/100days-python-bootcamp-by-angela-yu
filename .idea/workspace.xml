@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e1d76aa-a647-49c4-984c-637e42711495" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100days.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100days.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25/us-states-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/us-states-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day38/workoutTracking/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day38/workoutTracking/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644497956650</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="a">
+      <created>1651562777554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651562777554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
