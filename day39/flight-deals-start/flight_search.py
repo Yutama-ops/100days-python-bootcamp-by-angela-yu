@@ -10,7 +10,11 @@ class FlightSearch:
 
     def get_destination_code(self, city_name):
         location_endpoint = f"{TEQUILA_ENDPOINT}/locations/query"
+<<<<<<< HEAD
         headers = {"apikey": TEQUILA_API_KEY}
+=======
+        headers = {"apikey": {TEQUILA_API_KEY}}
+>>>>>>> origin/main
         query = {
             "term": city_name,
             "location_types": "city"
